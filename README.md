@@ -1,8 +1,8 @@
 ### Satisfaction, I'm Luis, I hope to contribute something for you!
 
 
-- 🔭 Sempre atento as novidades em tecnologias
-- 🌱 Formado em Ciencia da Computação
+- 🔭 Always on the lookout for the latest in technology.
+- 🌱 Graduated in computer science.
 <div align="center">
   <a href="https://github.com/devluiscarlos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devluiscarlos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
